@@ -1,0 +1,26 @@
+body {
+   background-color: darkgray;
+}
+.Login {
+   color: #005;
+   border: 3px solid #005;
+   border-radius: 10px;
+   margin-top: 20px;
+}
+
+.Botao {
+   background-color: #fff;
+   color: #005;
+   border: 3px solid #005;
+   border-radius: 10px;
+   margin-top: 20px;
+}
+
+.Botao:hover {
+   border: 3px solid red;
+   cursor: pointer;
+}
+
+form {
+   margin-bottom: 40px;
+}

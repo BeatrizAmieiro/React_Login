@@ -1,0 +1,28 @@
+.Card {
+   background-image: linear-gradient(to right, #005, red);
+   margin: 20px;
+   border: 7px solid #fff;
+   border-radius: 10px;
+   overflow: hidden; /*Corrigir o arredondamento superior*/
+   width: 40%;
+}
+
+.Card .Base {
+   margin: 20px;
+   border: 7px solid #fff;
+   border-radius: 10px;
+   overflow: hidden;
+}
+
+.Card .Content {
+  background-image: linear-gradient(to right, #005, red);
+   color: #fff;
+   padding: 15px 0px;
+}
+
+.Card .Head {
+   background-color: #fff;
+   color: #005;
+   padding: 10px 0px;
+   font-size: larger;
+}
