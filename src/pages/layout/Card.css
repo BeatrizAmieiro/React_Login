@@ -23,6 +23,7 @@
 .Card .Head {
    background-color: #fff;
    color: #005;
+   font-weight: bolder;
    padding: 10px 0px;
    font-size: larger;
 }

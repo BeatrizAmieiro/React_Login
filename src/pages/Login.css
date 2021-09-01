@@ -1,5 +1,5 @@
 body {
-   background-color: darkgray;
+   background-image: linear-gradient(to right, rgb(53, 53, 141), rgb(250, 73, 73));
 }
 .Login {
    color: #005;
